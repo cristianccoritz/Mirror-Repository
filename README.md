@@ -1,4 +1,5 @@
-# README - UPDATE FROM BITBUCKET IN VS CODE #
+# README #
+### Updated from Bitbucket in VS Code
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
